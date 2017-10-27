@@ -1,0 +1,32 @@
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\bin\Debug\Kinect_05.exe.config
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\bin\Debug\Kinect_05.exe
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\bin\Debug\Kinect_05.pdb
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\bin\Debug\Microsoft.Kinect.dll
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\bin\Debug\Microsoft.Kinect.xml
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.csprojResolveAssemblyReference.cache
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\MainWindow.g.cs
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\App.g.cs
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05_MarkupCompile.cache
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05_MarkupCompile.lref
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\MainWindow.baml
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.g.resources
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.Properties.Resources.resources
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.csproj.GenerateResource.Cache
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.exe
+c:\users\dasom\documents\visual studio 2015\Projects\Kinect_05\Kinect_05\obj\Debug\Kinect_05.pdb
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\bin\Debug\Kinect_05.exe.config
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.exe
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.pdb
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\bin\Debug\Kinect_05.exe
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\bin\Debug\Kinect_05.pdb
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.csprojResolveAssemblyReference.cache
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\MainWindow.g.cs
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\App.g.cs
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05_MarkupCompile.cache
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05_MarkupCompile.lref
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\MainWindow.baml
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.g.resources
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.Properties.Resources.resources
+C:\Users\Dasom\Desktop\바탕\이거어어어어어어어어어어어어\코드들\Kinect_05\Kinect_05\obj\Debug\Kinect_05.csproj.GenerateResource.Cache
