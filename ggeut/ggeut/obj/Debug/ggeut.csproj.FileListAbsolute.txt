@@ -1,0 +1,16 @@
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\MainWindow.g.cs
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\App.g.cs
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut_MarkupCompile.cache
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut_MarkupCompile.lref
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\bin\Debug\ggeut.exe.config
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\bin\Debug\ggeut.exe
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\bin\Debug\ggeut.pdb
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\bin\Debug\Microsoft.Kinect.dll
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\bin\Debug\Microsoft.Kinect.xml
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\MainWindow.baml
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.g.resources
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.Properties.Resources.resources
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.csproj.GenerateResource.Cache
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.exe
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.pdb
+c:\users\dasom\documents\visual studio 2015\Projects\ggeut\ggeut\obj\Debug\ggeut.csprojResolveAssemblyReference.cache
